@@ -1,4 +1,4 @@
-**Title:** Front-End Development Projects (FreeCodeCamp)
+# Front-End Development Projects (FreeCodeCamp)
 
 **Description:**
 
