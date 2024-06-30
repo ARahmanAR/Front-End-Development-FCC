@@ -1,0 +1,29 @@
+*{
+    font-family: "Fira Code", monospace;
+    background-color: #323232;
+}
+
+body{
+    font-size: 16px;
+}
+
+h1, h2{
+    color: #95c51a;
+}
+
+p{
+    color: #fa5ca6;
+    font-weight: bold;
+}
+
+.highlight{
+    text-transform: uppercase;
+    background-color: bisque;
+}
+.gray{
+    color: gray;
+}
+
+#first{
+    font-style: italic;
+}
